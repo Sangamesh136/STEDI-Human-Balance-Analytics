@@ -16,7 +16,7 @@ Design a scalable, cloud-based data architecture using AWS services to:
 
 ## 🛠️ Tech Stack
 
-- **AWS Glue** – ETL orchestration
+- **AWS Glue** – ELT orchestration
 - **Apache Spark (PySpark)** – Distributed data processing
 - **Amazon S3** – Data lake storage
 - **Amazon Athena** – Querying curated datasets
