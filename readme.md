@@ -61,7 +61,7 @@ Design a scalable, cloud-based data architecture using AWS services to:
 
 ## 🧠 Learnings
 
-- Implemented Spark-based ETL pipelines using AWS Glue
+- Implemented Spark-based ELT pipelines using AWS Glue
 - Hands-on experience with AWS cloud data engineering tools
 - Built foundational architecture for ML model training on human motion data
 
